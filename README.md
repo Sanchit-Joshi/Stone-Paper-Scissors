@@ -2,6 +2,7 @@
 ## check it out [here](https://sanchit-joshi.github.io/Stone-Paper-Scissors``)
 ## Description
 This is a simple implementation of the popular game Stone-Paper-Scissors. The game is played in the console and is a two-player game.
+here it is player vs computer
 
 ## How to Play
 1. Run the program.
